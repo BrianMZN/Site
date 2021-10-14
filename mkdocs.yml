@@ -1,0 +1,26 @@
+site_name: My Docs
+theme:
+  favicon: images/favicon.png
+  logo: assets/logo.png
+  name: material
+  language: nl  
+  palette: 
+   scheme: slate
+   primary: deep orange
+   accent: orange
+  features:
+    - navigation.tracking
+    - navigation.tabs.sticky
+    - navigation.indexes
+    - navigation.top
+    - header.autohide
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/twitch
+      link: https://twitch.tv/metzondernoob
+      name: Twitch
+    - icon: fontawesome/brands/discord
+      link: https://metzondernoob.nl/discord
+      name: Discord
+copyright: <a href="https://www.brianmsc.nl"><b>Brian Development</b></a>
